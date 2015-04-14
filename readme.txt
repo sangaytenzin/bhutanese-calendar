@@ -1,6 +1,6 @@
 === Bhutanese Calendar ===
 Contributors: sangay
-Tags: Bhutanese Calendar, Bhutan Calendar
+Tags: Bhutanese Calendar
 Requires at least: 3.2  
 Tested up to: 3.9  
 License: GPLv2 or later  
